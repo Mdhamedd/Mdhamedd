@@ -1,6 +1,6 @@
 ![792ca755-a941-418a-bd28-a7b6623d9c2c](https://github.com/Mdhamedd/Mdhamedd/assets/115209009/464a2c7c-6516-4949-b1ae-698f82092412)
 <h1 align="center">Hi👋, I'm Mohamed Hamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">Web developer specialized in front end and WordPress, interested in React.JS, from Egypt.</h3>
 <img align="right" width="500px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=mdhamedd&label=Profile%20views&color=0e75b6&style=flat" alt="mdhamedd" /> </p>
