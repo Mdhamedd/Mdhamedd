@@ -1,6 +1,6 @@
 <h1 align="center">✨ Mohamed Hamed ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Front-end+Developer;React+%26+Next.js+Specialist;WordPress+Expert;Tech+Enthusiast;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Front-end+Developer;React+%26+Next.js+Specialist;WordPress+Expert;Three.js+%26+3D+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
 ---
@@ -8,14 +8,14 @@
 ## 👨‍💻 About Me
 | | |
 |---|---|
-| <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> | ✨ **Front-End Developer** from Egypt, passionate about crafting interactive and responsive web apps.<br><br>💡 Specialized in **React.js, Next.js & WordPress**.<br>🚀 Building platforms that solve real-world problems.<br>🎯 Mission: **Deliver world-class digital products that make impact**.<br><br>- 🔭 Working on **TSM Education**<br>- 🌱 Expanding skills in **TypeScript & UI/UX**<br>- 💬 Ask me about **React, Next.js, WordPress, API integrations**<br>- 📫 Reach me: **mohamedhamed152001@gmail.com**<br>- ⚡ Fun fact: **I turn ☕ into clean, scalable code** |
+| <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> | ✨ **Front-End Developer** from Egypt, passionate about crafting interactive and responsive web apps.<br><br>💡 Specialized in **React.js, Next.js, WordPress & Three.js**.<br>🚀 Building platforms that solve real-world problems with both **2D & 3D experiences**.<br>🎯 Mission: **Deliver world-class digital products that make impact**.<br><br>- 🔭 Working on **TSM Education**<br>- 🌱 Expanding skills in **TypeScript, Three.js & UI/UX**<br>- 💬 Ask me about **React, Next.js, WordPress, API integrations**<br>- 📫 Reach me: **mohamedhamed152001@gmail.com**<br>- ⚡ Fun fact: **I turn ☕ into clean, scalable code** |
 
 ---
 
 ## ⚡ Skills
-| Frontend | Tools & Others |
+| Frontend & 3D | Tools & Others |
 |----------|----------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwind,sass"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,postman,wordpress,vscode,nodejs,mysql"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwind,sass,threejs"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,postman,wordpress,vscode,nodejs,mysql"/> |
 
 ---
 
@@ -47,7 +47,7 @@
 ## 🎯 Vision & Goals
 ✨ Build scalable platforms that can impact millions of users.  
 🌍 Contribute to **open-source projects** and global developer communities.  
-🤝 Collaborate with innovative teams solving **AI, healthcare, and education problems**.  
+🤝 Collaborate with innovative teams solving **AI, healthcare, education, and immersive 3D experiences**.  
 🚀 Aim to work with world-class companies like **Google, OpenAI, and top startups**.  
 
 ---
